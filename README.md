@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/gFmxmzac", true))()
+El que lee esto es puto.
